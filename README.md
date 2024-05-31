@@ -1,2 +1,2 @@
 # LandingPage
- LandingPage feito com HTML-CSS
+ Uma simples LandingPage feito com HTML-CSS
